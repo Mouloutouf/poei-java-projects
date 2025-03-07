@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Administrator"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"Book"},{"p":"<Unnamed>","l":"IBorrowManager"},{"p":"<Unnamed>","l":"IDisplayable"},{"p":"<Unnamed>","l":"Library"},{"p":"<Unnamed>","l":"Member"},{"p":"<Unnamed>","l":"Person"},{"p":"<Unnamed>","l":"TestLibrary"}];updateSearchResults();
